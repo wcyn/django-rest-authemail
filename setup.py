@@ -20,11 +20,11 @@ setup(
     packages=['authemail'],
     include_package_data=True,
     long_description=open('README.rst').read(),
-    install_requires=[
-        'Django==1.7',
-        'djangorestframework==2.4.3',
-        'requests>=2.3.0',
-    ],
+    # install_requires=[
+    #     'Django==1.9.4',
+    #     'djangorestframework==3.3.2',
+    #     'requests>=2.3.0',
+    # ],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Framework :: Django',
