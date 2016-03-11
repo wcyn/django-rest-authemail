@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='django-rest-authemail',
-    version='0.1.4',
+    version='0.1.5',
     author='Celia Oakley',
     author_email='celia.oakley@alumni.stanford.edu',
     description='A RESTful API for user signup and authentication using email addresses',
